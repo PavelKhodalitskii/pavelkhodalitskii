@@ -6,7 +6,7 @@
 **PavelKhodalitskii/pavelkhodalitskii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-<h2 align="center">About me</h2>
+<h2>About me</h2>
 <ul>
     <li>💻 I’m currently working on Django practice projects</li>
     <li>💾 I’m currently learning Django Web-Framework</li>
