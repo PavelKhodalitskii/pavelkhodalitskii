@@ -8,7 +8,9 @@
 
 <div align="center">
 <h2 align="center">About me</h2>
-- 💻 I’m currently working on Django practice projects
-- 💾 I’m currently learning Django Web-Framework
-- 📫 How to reach me? Email me at: dreamsobenatic00@mail.ru
+<ul>
+    <li>- 💻 I’m currently working on Django practice projects</li>
+    <li>- 💾 I’m currently learning Django Web-Framework</li>
+    <li>- 📫 How to reach me? Email me at: dreamsobenatic00@mail.ru</li>
+</ul>
 </div>
